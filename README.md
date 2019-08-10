@@ -4,6 +4,10 @@ my non-portable (64bit linux only) lorri installation, based off some bullshit b
 
 don't take my word for it, you can go build lorri yourself: <https://github.com/target/lorri>
 
+## Installation issues
+
+Please note that you will need to run the lorri repo nix-shell once, in order to have some runtime dependencies for lorri installed. This may be fixed in a future release of lorri.
+
 ## Usage
 
 ```nix
